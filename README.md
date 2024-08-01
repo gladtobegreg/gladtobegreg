@@ -20,10 +20,10 @@ Feel free to email me
 gladtobegreg@gmail.com
 
 View my personal site
-https://gladtobegreg.netlify.app/
+[https://gladtobegreg.netlify.app/](https://gladtobegreg.netlify.app/)
 
 Check out my Linkedin
-https://www.linkedin.com/in/gregoryguevara/
+[linkedin.com/in/gregoryguevara](https://www.linkedin.com/in/gregoryguevara/)
 
 Reach out through social media
-https://www.instagram.com/gladtobegreg/
+[instagram.com/gladtobegreg](https://www.instagram.com/gladtobegreg/)
