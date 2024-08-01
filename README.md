@@ -10,11 +10,11 @@ I hope to connect with professionals and companies that may help create opportun
 
 ### My skillset and experience includes the following technologies...
 
-Python, Javascript, Java, C++, HTML/CSS
-React, Node.js, Express
-MS SQL, MySQL, PostgreSQL
-Erwin Data Modeler, Docker, Git, ChatGPT
-And more
+- Python, Javascript, Java, C++, HTML/CSS
+- React, Node.js, Express
+- MS SQL, MySQL, PostgreSQL
+- Erwin Data Modeler, Docker, Git, ChatGPT
+- And more
 
 Feel free to email me
 gladtobegreg@gmail.com
