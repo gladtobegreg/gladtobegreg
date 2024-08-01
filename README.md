@@ -1,9 +1,28 @@
-Hi! I'm Gregory.
+# Hi, I'm Greg
+## A Software Engineer from New York City
 
-As a recent NYC graduate, my passion for software engineering is launching me into the ever-shifting field of software and technology. I'm excited to work alongside teams and individuals who are growing and building themselves upward. With innovation and learning at the forefront of the software engineering space, my lifelong passion for technology has no limits. Ultimately, I want to engage with other professionals, build compelling solutions, and become an expert in the field of computer science.
+### I've been studying tech stacks and web applications to better understand how projects are built and shared. As a computer science graduate, and a tinkerer at heart, technology is an endless learning space to explore. I'm pleased to spend my time developing skills and my knowledge base using new tools and applying new ideas. I'm currently in search of a team to develop and build projects with others.
 
-At Queens College, we lay the groundwork for a strong foundation in computer science by building skills in development, data structures and algorithms, computer architecture, database systems, networks, engineering, and machine learning. We explored many concepts and tools, all critical for any skilled professional to practice and explore. Languages, tools, and platforms that I became familiar with at QC include: Java, Python, C/C++, JavaScript, SQL, NodeJS, VS Code, IntelliJ, Eclipse, JUnit, Git, Docker, Azure, Erwin DM, MySQL, MS SQL, PostgreSQL, and many more.
+### Within the ever expanding space of technology and software, new solutions and applications are always popping up. Everyday we have more and more tools at our disposal but the sky is the limit. Getting there just takes some work and a healthy dose of creativity. Building effective solutions and learning to work together is the real challenge. I'm happy to say this is where I apply my focus and strive to build a career.
 
-I am currently interested in exercising my abilities to build projects that might explore new technologies and build effective solutions to interesting problems. That means learning to program in new languages, studying existing methods, and refining my skills to become a better candidate for a role in software engineering.
+### I hope to connect with professionals and companies that may help create opportunities to explore those challenges together.
 
-This GitHub will act as a hub for my work to be accessible to any potential employers, curious minds, and upcoming learners. Please reach out to me if you think I might be a good fit for your team or just want to discuss anything tech. Thank you for taking the time to visit and read up on my ideas and aspirations.
+### My skillset and experience includes the following technologies...
+
+Python, Javascript, Java, C++, HTML/CSS
+React, Node.js, Express
+MS SQL, MySQL, PostgreSQL
+Erwin Data Modeler, Docker, Git, ChatGPT
+And more
+
+Feel free to email me
+gladtobegreg@gmail.com
+
+View my personal site
+https://gladtobegreg.netlify.app/
+
+Check out my Linkedin
+https://www.linkedin.com/in/gregoryguevara/
+
+Reach out through social media
+https://www.instagram.com/gladtobegreg/
