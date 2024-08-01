@@ -18,7 +18,7 @@ I hope to connect with professionals and companies that may help create opportun
 
 Feel free to email me: gladtobegreg@gmail.com
 
-View my personal site: [https://gladtobegreg.netlify.app/](https://gladtobegreg.netlify.app/)
+View my personal site: [gladtobegreg.netlify.app/](https://gladtobegreg.netlify.app/)
 
 Check out my Linkedin: [linkedin.com/in/gregoryguevara](https://www.linkedin.com/in/gregoryguevara/)
 
