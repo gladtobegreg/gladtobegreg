@@ -1,4 +1,5 @@
-# Hi, I'm Greg - A Software Engineer from New York City
+Hi, I'm Greg - A Software Engineer from New York City
+=====================================================
 
 ## I've been studying tech stacks and web applications to better understand how projects are built and shared. As a computer science graduate, and a tinkerer at heart, technology is an endless learning space to explore. I'm pleased to spend my time developing skills and my knowledge base using new tools and applying new ideas.
 ## I'm currently in search of a team to develop and build projects with others.
