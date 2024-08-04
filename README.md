@@ -16,9 +16,9 @@ I hope to connect with professionals and companies that may help create opportun
 - Erwin Data Modeler, Docker, Git, ChatGPT
 - And more
 
-Feel free to email me: gladtobegreg@gmail.com
+Feel free to email me: greg@gladtobegreg.com
 
-View my personal site: [gladtobegreg.netlify.app/](https://gladtobegreg.netlify.app/)
+View my personal site: [gladtobegreg.com](https://gladtobegreg.com)
 
 Check out my Linkedin: [linkedin.com/in/gregoryguevara](https://www.linkedin.com/in/gregoryguevara/)
 
